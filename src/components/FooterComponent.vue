@@ -19,7 +19,7 @@
       <a href="https://lemonstar.me" 
          target="_blank"
          class="font-bold text-green-600 hover:text-gray-600 transition-colors">柠檬星</a>
-      <p>All Rights Reserved</p>
+      <span>All Rights Reserved</span>
       <button class="text-pink-500 font-bold" @click="toggleTips">小提示</button>
     </div>
     
