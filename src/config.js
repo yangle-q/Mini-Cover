@@ -10,8 +10,8 @@ const fonts = [
 ];
 
 export const defaultConfig = {
-    text: '梦爱吃鱼',       // 默认文本
-    watermark: '@梦爱吃鱼', // 默认水印
+    text: '柠檬星',       // 默认文本
+    watermark: '@Lemonstar', // 默认水印
     fontFamily: import.meta.env.VITE_APP_FONT_FAMILY,
     fontStyles: fonts.map(f => f[2]).filter(Boolean),
     fontOptions: fonts.map(([value, label]) => ({ value, label }))
