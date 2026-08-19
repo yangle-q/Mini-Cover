@@ -3,10 +3,10 @@ const fonts = [
     ['Microsoft YaHei', '微软雅黑'],
     // [字体名称, 显示名称, CSS文件地址]
     ['HarmonyOS_Regular', '鸿蒙字体', 'https://s1.hdslb.com/bfs/static/jinkela/long/font/regular.css'],
-    ['yozai', '悠哉字体', 'https://cover.lemonstar.me//fonts-css/Yozai-Regular.css'],
-    ['寒蝉全圆体', '寒蝉全圆体', 'https://cover.lemonstar.me//fonts-css/寒蝉全圆体.css'],
-    ['Douyin Sans', '抖音美好体', 'https://cover.lemonstar.me//fonts-css/抖音美好体.css'],
-    ['MaokenZhuyuanTi', '猫啃珠圆体', 'https://cover.lemonstar.me//fonts-css/MaoKenZhuYuanTi.css']
+    ['yozai', '悠哉字体', 'https://cover.lemonstar.me//font-css/Yozai-Regular.css'],
+    ['寒蝉全圆体', '寒蝉全圆体', '/font-css/寒蝉全圆体.css'],
+    ['Douyin Sans', '抖音美好体', '/font-css/抖音美好体.css'],
+    ['MaokenZhuyuanTi', '猫啃珠圆体', '/font-css/MaoKenZhuYuanTi.css']
 ];
 
 export const defaultConfig = {
